@@ -1,0 +1,2 @@
+output_name,extraction_time,selection_mode,match_type,join_type,missing_rule,rename_variables,attach_healthsheds,csv_geometry_mode,n_selected_variables,n_rows,n_distinct_clinics,min_year,max_year
+madagascar_clinic_extraction,2026-06-15 09:29:25.260638,strings,contains,full,minus1_to_zero,TRUE,FALSE,drop,8,550881,4272,2010,2024
